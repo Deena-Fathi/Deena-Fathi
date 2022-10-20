@@ -15,8 +15,8 @@ Alexandria, University | 2020 - 2024<br>
 Majoring in Intelligent Systems with a 3.4 CGPA<br>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<!--p align="left">
+<!--h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://fb.com/deena fathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deena fathi" height="30" width="40" /></a>
 <div id="badges", align="center">
   <a href="your-linkedin-URL">

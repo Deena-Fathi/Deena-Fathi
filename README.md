@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deena Fathi</h1>
-<h3 align="center">I'm a student passionate about Game development, AI, and robotics</h3>
+<h3 align="center">I'm an undergraduate student passionate about AI, Game development, and robotics</h3>
 
 <h3 align = "left">About Me</h3>
 <p>

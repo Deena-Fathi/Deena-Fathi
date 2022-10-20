@@ -3,7 +3,7 @@
 
 <h3 align = "left">About Me</h3>
 <p>
-I am a college student passionate about game development and design, Ai, and robotics.<br>
+Hardworking College Student seeking improvement while bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platforms and office technology programs as well as committed to utilizing my skills to further the mission of a company.<br>
 I'm also a traditional and digital artist it's my favorite thing to do in my free time.
 </p>
   

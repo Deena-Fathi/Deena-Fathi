@@ -4,7 +4,7 @@
 <h3 align = "left">About Me</h3>
 <p>
 Hardworking College Student seeking improvement while bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platforms and office technology programs as well as committed to utilizing my skills to further the mission of a company.<br>
-AS well as I'm a traditional & digital artist it's my hoppy, and i benifit alot from it in the UX phase .
+As well as I'm a traditional & digital artist, which benifits me in UX/UI design.
 </p>
   
   

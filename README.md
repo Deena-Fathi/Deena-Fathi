@@ -12,7 +12,7 @@ As well as I'm a traditional & digital artist, which benifits me in UX/UI design
 <p>
 BCs Computers and Data Science<br>
 Alexandria, University | 2020 - 2024<br>
-Majoring in Intelligent Systems with a 3.4 CGPA<br>
+Majoring in Intelligent Systems with a 3.52 CGPA (Excellent A-)<br>
 </p>
 
 

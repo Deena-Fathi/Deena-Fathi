@@ -65,6 +65,8 @@ Major: Intelligent Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" alt="odoo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.svg" alt="fastapi" width="40" height="40"/>
 </p>
 
 <div id="header" align="center">

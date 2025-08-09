@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deena Fathi</h1>
-<h3 align="center">Backend Developer (FastAPI & Odoo) | AI Engineer | M.Sc. Student | Arabic–English Bilingual</h3>
+<h3 align="center">Backend Developer (FastAPI & Odoo) | AI Engineer | M.Sc. Student</h3>
 
 <h3 align="left">About Me</h3>
 <p>
